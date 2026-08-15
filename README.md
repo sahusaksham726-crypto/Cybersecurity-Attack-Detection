@@ -183,9 +183,4 @@ Cyber Security Project/
 
 **Saksham Sahu**
 
-🎓 B.Tech CSE Student  
-📊 Data Science Enthusiast  
-💻 Python | Machine Learning | Data Science
-
-    ├── final_roc_auc_comparison.png
-    └── final_overall_model_comparison.png
+B.Tech CSE | Data Science Enthusiast

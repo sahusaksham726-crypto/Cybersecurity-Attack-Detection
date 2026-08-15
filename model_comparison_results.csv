@@ -1,0 +1,4 @@
+Model,Rows,URL,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Model A,10000,Ignored,71.75,9.52,71.25,16.79,81.18
+Model B,6768,Available + Features,74.37,9.19,61.11,15.98,77.38
+Model C,3232,Missing,75.12,10.06,65.38,17.44,79.5

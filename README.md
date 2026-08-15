@@ -144,6 +144,12 @@ Model C performs strongly on records where the URL is unavailable, while Model B
 
 Overall, the project demonstrates that **missing URL information does not make cybersecurity attack detection impossible**, because network, traffic, protocol, user-agent, and time-based features can still provide useful predictive information.
 
+## Author
+
+**Saksham Sahu**
+
+B.Tech CSE | Data Science Enthusiast
+
 ## Project Structure
 
 ```text
@@ -179,8 +185,4 @@ Cyber Security Project/
     ├── final_recall_comparison.png
     ├── final_f1_comparison.png
 
-## Author
 
-**Saksham Sahu**
-
-B.Tech CSE | Data Science Enthusiast

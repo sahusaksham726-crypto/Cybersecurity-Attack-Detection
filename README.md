@@ -178,5 +178,14 @@ Cyber Security Project/
     ├── final_precision_comparison.png
     ├── final_recall_comparison.png
     ├── final_f1_comparison.png
+
+## Author
+
+**Saksham Sahu**
+
+🎓 B.Tech CSE Student  
+📊 Data Science Enthusiast  
+💻 Python | Machine Learning | Data Science
+
     ├── final_roc_auc_comparison.png
     └── final_overall_model_comparison.png
